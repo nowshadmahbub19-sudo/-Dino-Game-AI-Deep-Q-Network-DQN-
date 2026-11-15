@@ -45,3 +45,5 @@ The agent samples previous experiences to train its neural network.
 The network updates its Q-value predictions using the Bellman equation.
 
 The process repeats, allowing the agent to improve over time.
+
+you can try any games by using this method. RL is future !!!
